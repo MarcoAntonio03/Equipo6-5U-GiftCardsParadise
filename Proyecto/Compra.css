@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.Anuncio{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Compra.png);
+    background-size: cover;
+}
+.boton{
+    transform: translate(330%,900%);
+    border-radius: 0px;
+    padding: 15px 15px;
+    text-decoration: none;
+    background-color: darkcyan; 
+    width: 20%;
+    color:white;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}

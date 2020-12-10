@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.F{
+    height: 100vh;
+    width: 100%;
+    background-image: url(F.gif);
+    background-size: cover;
+}
+h1{
+    color: black;
+    font-weight: 1000; font-size: 50px;
+}
+h2{
+    font-weight: 900; font-size: 30px;
+}
+h3{
+    color: darkblue;
+    font-weight: 900; font-size: 25px;
+}
+.boton{
+    transform: translate(-0%,-150%);
+    border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    background-color: green;
+    width: 30%;
+    color: black;
+    display: inline-block;
+    text-align: center;
+}
+h4{
+    font-weight: 1000;
+}
+h5{
+    text-align: left;
+    color: black;
+}
+b{
+    color: lavender;
+}

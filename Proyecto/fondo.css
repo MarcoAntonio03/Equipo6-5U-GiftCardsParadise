@@ -1,0 +1,24 @@
+.Fondo{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Fondo.jpg);
+    background-size: cover;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.Sesion{
+    background-color: aliceblue;
+}
+.boton{
+    transform: translate(240%,-100%);
+    border-radius: 50px;
+    padding: 3px 3px;
+    text-decoration: none;
+    background-color: lightseagreen;
+    width: 30%;
+    color:white;
+    display: inline-block;
+    text-align: center;
+}

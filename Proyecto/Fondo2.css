@@ -1,0 +1,51 @@
+.Mem1{
+    background-image: url(FondoM.png);
+}
+.Mem2{
+    background-image: url(FondoM2.png);
+}
+.Mem3{
+    background-image: url(FondoM3.png);
+}
+.Mem4{
+    background-image: url(FondoM4.png);
+}
+.Mem5{
+    background-image: url(FondoM5.jpg);
+}
+.Mem6{
+    background-image: url(FondoM6.png);
+}
+.Imagen{
+    background-color: aliceblue;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.Fondo2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Fondo2.jpg);
+    background-size: cover;
+}
+.Barra{
+    background-color: black;
+}
+.Titulo{
+    color: aliceblue;
+}
+.Texto{
+    color: aliceblue;
+}
+.boton{
+    transform: translate(800%,-250%);
+    border-radius: 50px;
+    padding: 3px 3px;
+    text-decoration: none;
+    background-color: blue;
+    width: 10%;
+    color:white;
+    display: inline-block;
+    text-align: center;
+}
